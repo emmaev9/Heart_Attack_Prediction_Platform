@@ -1,0 +1,26 @@
+/* CSS */
+.button-222 {
+  background-color: #54d5d3;
+
+
+  border-radius: 100px;
+  box-shadow: rgba(44, 187, 134, 0.2) 0 -25px 18px -14px inset,#17b5ba26 0 1px 2px,rgba(44, 187, 158, 0.15) 0 2px 4px,rgba(44, 177, 187, 0.15) 0 4px 8px,rgba(44, 187, 154, 0.15) 0 8px 16px,rgba(27, 90, 119, 0.15) 0 16px 32px;
+  color: rgb(254, 254, 254);
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-222:hover {
+  box-shadow: rgba(80, 198, 214, 0.35) 0 -25px 18px -14px inset,rgba(44, 187, 130, 0.25) 0 1px 2px,rgba(44, 187, 142, 0.25) 0 2px 4px,rgba(44, 182, 187, 0.25) 0 4px 8px,rgba(44, 182, 187, 0.25) 0 8px 16px,rgba(44, 87, 187, 0.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
